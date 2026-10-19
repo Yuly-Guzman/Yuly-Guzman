@@ -1,6 +1,7 @@
  Hola, soy Yuly 👋
 
 💻 **Analista de Datos en formación | Excel | SQL | Limpieza de Datos | Visualización de Datos**
+🇪🇸 Español | [🇺🇸 English version](README_EN.md)
 
 Estoy en proceso de transición hacia el área de **Data Analytics**, desarrollando proyectos prácticos para fortalecer mis habilidades en limpieza, análisis, organización e interpretación de datos.
 

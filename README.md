@@ -12,67 +12,74 @@ My current portfolio focuses on practical projects where I can work through the 
 - Data cleaning and validation
 - Data organization
 - Exploratory analysis
-- Business-rule classification
-- Pivot tables
-- Dashboard creation
-- Data visualization
-- Executive reporting
+- Business-rule classification# Hola, soy Yuly 👋
 
-## 🛠️ Skills
+💻 **Analista de Datos en formación | Excel | SQL | Limpieza de Datos | Visualización de Datos**
 
-- **Excel:** formulas, XLOOKUP, dynamic formulas, PivotTables, PivotCharts, slicers, conditional formatting and dashboards
-- **SQL:** currently developing and practicing querying and data analysis skills
-- **Data Cleaning**
-- **Data Analysis**
-- **Data Visualization**
-- **Business Analysis**
-- **Dashboard Design**
+Estoy en proceso de transición hacia el área de **Data Analytics**, desarrollando proyectos prácticos para fortalecer mis habilidades en limpieza, análisis, organización e interpretación de datos.
 
-## 📊 Featured Project
+Me interesa transformar datos en información clara y útil que permita comprender mejor una situación y apoyar la toma de decisiones.
 
-### Latin American Product Market Analysis — Florida, USA
+Actualmente estoy construyendo mi portafolio profesional mediante proyectos en los que trabajo diferentes etapas del proceso de análisis de datos.
 
-Market opportunity analysis of Latin American food products for retail stores targeting the Florida market.
+## 🛠️ Habilidades
 
-The project analyzes **42 products from 4 countries**:
+- **Excel:** fórmulas, BUSCARX, fórmulas dinámicas, tablas dinámicas, gráficos dinámicos, segmentadores, formato condicional y dashboards
+- **SQL:** actualmente en proceso de aprendizaje y práctica
+- Limpieza de datos
+- Análisis de datos
+- Visualización de datos
+- Análisis de negocio
+- Diseño de dashboards
+- Elaboración de reportes ejecutivos
 
-- 🇲🇽 Mexico
+## 📊 Proyecto destacado
+
+### Análisis de oportunidades de productos latinoamericanos — Florida, EE. UU.
+
+Proyecto de análisis de mercado enfocado en identificar oportunidades comerciales para productos latinoamericanos dirigidos al mercado de Florida.
+
+El proyecto analiza **42 productos pertenecientes a 4 países**:
+
+- 🇲🇽 México
 - 🇻🇪 Venezuela
-- 🇭🇹 Haiti
+- 🇭🇹 Haití
 - 🇬🇹 Guatemala
 
-The analysis combines commercial signals from:
+El análisis utiliza señales comerciales obtenidas de:
 
 - Amazon
 - Walmart
 - eBay
 
-It also evaluates product sourcing and supplier availability in Florida and the United States.
+También incluye información relacionada con disponibilidad de proveedores y posibilidades de abastecimiento en Florida y Estados Unidos.
 
-The project includes:
+### El proyecto incluye:
 
-- Product-level datasets
-- Data cleaning and standardization
-- Amazon demand indicators
-- Walmart marketplace signals
-- eBay marketplace signals
-- Competition analysis
-- Supplier and sourcing analysis
-- Multichannel presence classification
-- Commercial opportunity classification
-- Country-specific dashboards
-- Executive dashboard for decision-making
+- Recolección y organización de datos
+- Limpieza y estandarización
+- Análisis de señales de demanda en Amazon
+- Análisis de presencia en Walmart
+- Análisis de presencia y ventas visibles en eBay
+- Evaluación de competencia
+- Investigación de proveedores
+- Análisis de abastecimiento
+- Clasificación de presencia multicanal
+- Clasificación de oportunidad comercial
+- Dashboards individuales por país
+- Dashboard ejecutivo consolidado
+- Tablas dinámicas y segmentadores interactivos
 
-## 🌱 Currently Learning
+## 🌱 Actualmente estoy aprendiendo
 
-I'm continuing to develop my skills in:
+Continúo desarrollando mis conocimientos en:
 
 - SQL
 - Excel
 - Data Analytics
-- Data Visualization
+- Visualización de datos
 - Business Intelligence
 
-## 🎯 Goal
+## 🎯 Objetivo profesional
 
-My goal is to build a strong Data Analytics portfolio through real-world projects that demonstrate my ability to transform data into clear, useful and actionable insights.
+Mi objetivo es construir un portafolio sólido de análisis de datos mediante proyectos prácticos que demuestren mi capacidad para transformar datos en información clara, útil y accionable para la toma de decisiones.

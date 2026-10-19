@@ -1,18 +1,4 @@
-# Hi, I'm Yuly 👋
-
-💻 **Aspiring Data Analyst | Excel | SQL | Data Cleaning & Data Visualization**
-
-I'm transitioning into Data Analytics and building hands-on projects to strengthen my skills in data cleaning, data analysis, business analysis, and visualization.
-
-I enjoy transforming raw data into structured information that can support better business decisions.
-
-My current portfolio focuses on practical projects where I can work through the complete analysis process:
-
-- Data collection
-- Data cleaning and validation
-- Data organization
-- Exploratory analysis
-- Business-rule classification# Hola, soy Yuly 👋
+ Hola, soy Yuly 👋
 
 💻 **Analista de Datos en formación | Excel | SQL | Limpieza de Datos | Visualización de Datos**
 

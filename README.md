@@ -22,7 +22,7 @@ Actualmente estoy construyendo mi portafolio profesional mediante proyectos en l
 
 ## 📊 Proyecto destacado
 
-### Análisis de oportunidades de productos latinoamericanos — Florida, EE. UU.
+#### [Análisis de oportunidades de productos latinoamericanos — Florida, EE. UU.](https://github.com/Yuly-Guzman/latin-american-product-market-analysis)
 
 Proyecto de análisis de mercado enfocado en identificar oportunidades comerciales para productos latinoamericanos dirigidos al mercado de Florida.
 

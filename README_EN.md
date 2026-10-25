@@ -22,8 +22,7 @@ I'm currently building my professional portfolio through practical projects cove
 - Executive Reporting
 
 ## 📊 Featured Project
-
-### Latin American Product Market Opportunity Analysis — Florida, USA
+### [Análisis de oportunidades de productos latinoamericanos — Florida, EE. UU.](https://github.com/Yuly-Guzman/latin-american-product-market-analysis)
 
 A market analysis project focused on identifying commercial opportunities for Latin American products targeting the Florida market.
 
@@ -41,6 +40,7 @@ The analysis uses commercial signals from:
 - eBay
 
 It also includes supplier availability and sourcing opportunities in Florida and the United States.
+👉 [Ver proyecto completo](https://github.com/Yuly-Guzman/latin-american-product-market-analysis)
 
 ### The project includes:
 

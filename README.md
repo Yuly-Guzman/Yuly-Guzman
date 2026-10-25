@@ -40,6 +40,7 @@ El análisis utiliza señales comerciales obtenidas de:
 - eBay
 
 También incluye información relacionada con disponibilidad de proveedores y posibilidades de abastecimiento en Florida y Estados Unidos.
+👉 [Ver proyecto completo](https://github.com/Yuly-Guzman/latin-american-product-market-analysis)
 
 ### El proyecto incluye:
 
